@@ -127,7 +127,7 @@ entire table would look like the following:
 <table>
   <tr>
     <th>Name</th>
-    <th>Phone Number</th>
+    <th>State</th>
     <th>Bringing</th>
   </tr>
   <tr>
@@ -145,6 +145,7 @@ entire table would look like the following:
     <td>914-555-1212</td>
     <td>Salsa</td>
   </tr>
+  <tr></tr>
 </table>
 ```
 
